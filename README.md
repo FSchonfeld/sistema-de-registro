@@ -5,3 +5,5 @@
 Para ejecutar el sistema se debe poner: 
 
 ""algo algo algo""
+
+Sistema de registro 2
